@@ -1,0 +1,1 @@
+# inamsoft.vsextensions
